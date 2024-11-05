@@ -1,0 +1,1 @@
+# next-auth-with-mongoose
