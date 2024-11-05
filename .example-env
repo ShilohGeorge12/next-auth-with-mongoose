@@ -1,0 +1,3 @@
+SECRET=""
+DATABASE_URL=""
+NEXTAUTH_URL="http://localhost:5000"
